@@ -123,3 +123,8 @@ line-height: 128.2%;
 
 color: #FFFFFF;
 }
+.container .section{
+    width: 100%;
+    height: 1795px;
+    background-color: rgb(24, 29, 41);
+}
