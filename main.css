@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: none;
+}
+.container .header{
+    width: 100%;
+    height: 900px;
+    background: url(./img/Untitled-1\ 2.png);
+}
+.container .header .h1_1{
+    position: absolute;
+width: 462px;
+height: 62px;
+left: 114px;
+top: 297px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 120%;
+/* or 62px */
+
+
+color: #FFFFFF;
+}
+.container .header .p_1{
+    position: absolute;
+width: 601px;
+height: 80px;
+left: 114px;
+top: 369px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 141.5%;
+/* or 40px */
+
+
+color: #FFFFFF;
+}
+.container .header .b_1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 280.87px;
+height: 78.5px;
+left: 114px;
+top: 515px;
+
+background: rgba(255, 255, 255, 0.02);
+border: 0.84315px solid #A6A7A8;
+box-shadow: 0px 43.0007px 96.9622px rgba(166, 167, 168, 0.06);
+border-radius: 47.2164px;
+}
+.container .header .b_1 .img_1{
+    position: absolute;
+left: 39.69;
+right: 224.61px;
+top: 30.97px;
+bottom: 10.42%;
+}
+.container .header .b_1 .h1_2{
+    position: absolute;
+width: 124.73px;
+height: 18.32px;
+left: 77.63px;
+top: 29.66px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 13.4904px;
+line-height: 128.2%;
+
+color: #A6A7A8;
+}
+.container .header .b_2{
+    position: absolute;
+width: 280.87px;
+height: 78.5px;
+left: 423px;
+top: 515px;
+
+border: none;
+
+background: #0BD7B8;
+box-shadow: 0px 55.6073px 125.389px rgba(11, 215, 184, 0.15);
+border-radius: 61.059px;
+}
+.container .header .b_2 .h1_3{
+    position: absolute;
+width: 228.97px;
+height: 20.72px;
+left: 26px;
+top: 29px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 17.4454px;
+line-height: 128.2%;
+
+
+color: rgba(26, 31, 44, 0.89);
+}
+.container .header .h1_4{
+    position: absolute;
+width: 190px;
+height: 33.35px;
+left: 1100px;
+top: 98px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25.8228px;
+line-height: 128.2%;
+
+color: #FFFFFF;
+}
