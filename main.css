@@ -419,3 +419,636 @@ color: #FFFFFF;
     
     color: #BBBBBB;
 }
+.container .section .div_5{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 363px;
+left: 10px;
+top: 1675px;
+
+background: rgba(255, 255, 255, 0.05);
+border: 1px solid rgba(255, 255, 255, 0.07);
+backdrop-filter: blur(25px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 32px;
+}
+.container .section .div_5 .h1_10{
+    position: absolute;
+width: 216px;
+height: 31px;
+left: 53px;
+top: 212px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 128.2%;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.container .section .div_5 .b_3 {
+    position: absolute;
+width: 232px;
+height: 52px;
+left: 45px;
+top: 279px;
+
+border: none;
+
+background: #0BD7B8;
+box-shadow: 0px 20px 85px rgba(11, 215, 184, 0.2);
+border-radius: 61.059px;
+}
+.container .section .div_5 .b_3 .h1_11{
+    position: absolute;
+width: 107px;
+height: 23px;
+left: 63px;
+top: 15px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 128.2%;
+/* identical to box height, or 23px */
+
+text-align: center;
+
+color: #1A1F2C;
+}
+.container .section .div_6{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 363px;
+left: 345px;
+top: 1675px;
+
+background: rgba(255, 255, 255, 0.05);
+border: 1px solid rgba(255, 255, 255, 0.07);
+backdrop-filter: blur(25px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 32px;
+}
+.container .section .div_6 .h1_12{
+    position: absolute;
+width: 216px;
+height: 31px;
+left: 53px;
+top: 212px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 128.2%;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.container .section .div_6 .b_4 {
+    position: absolute;
+width: 232px;
+height: 52px;
+left: 45px;
+top: 279px;
+
+border: none;
+
+background: #0BD7B8;
+box-shadow: 0px 20px 85px rgba(11, 215, 184, 0.2);
+border-radius: 61.059px;
+}
+.container .section .div_6 .b_3 .h1_13{
+    position: absolute;
+width: 107px;
+height: 23px;
+left: 63px;
+top: 15px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 128.2%;
+/* identical to box height, or 23px */
+
+text-align: center;
+
+color: #1A1F2C;
+}
+.container .section .div_7{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 363px;
+left: 680px;
+top: 1675px;
+
+background: rgba(255, 255, 255, 0.05);
+border: 1px solid rgba(255, 255, 255, 0.07);
+backdrop-filter: blur(25px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 32px;
+}
+.container .section .div_7 .h1_14{
+    position: absolute;
+width: 216px;
+height: 31px;
+left: 53px;
+top: 212px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 128.2%;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.container .section .div_7 .b_5 {
+    position: absolute;
+width: 232px;
+height: 52px;
+left: 45px;
+top: 279px;
+
+border: none;
+
+background: #0BD7B8;
+box-shadow: 0px 20px 85px rgba(11, 215, 184, 0.2);
+border-radius: 61.059px;
+}
+.container .section .div_7 .b_5 .h1_15{
+    position: absolute;
+width: 107px;
+height: 23px;
+left: 63px;
+top: 15px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 128.2%;
+/* identical to box height, or 23px */
+
+text-align: center;
+
+color: #1A1F2C;
+}
+.container .section .div_8{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 363px;
+left: 1015px;
+top: 1675px;
+
+background: rgba(255, 255, 255, 0.05);
+border: 1px solid rgba(255, 255, 255, 0.07);
+backdrop-filter: blur(25px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 32px;
+}
+.container .section .div_8 .h1_16{
+    position: absolute;
+width: 240px;
+height: 31px;
+left: 53px;
+top: 212px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 128.2%;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.container .section .div_8 .b_6 {
+    position: absolute;
+width: 232px;
+height: 52px;
+left: 45px;
+top: 279px;
+
+border: none;
+
+background: #0BD7B8;
+box-shadow: 0px 20px 85px rgba(11, 215, 184, 0.2);
+border-radius: 61.059px;
+}
+.container .section .div_8 .b_3 .h1_17{
+    position: absolute;
+width: 107px;
+height: 23px;
+left: 63px;
+top: 15px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 128.2%;
+/* identical to box height, or 23px */
+
+text-align: center;
+
+color: #1A1F2C;
+}
+.container .section .div_9{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 363px;
+left: 10px;
+top: 2078px;
+
+background: rgba(255, 255, 255, 0.05);
+border: 1px solid rgba(255, 255, 255, 0.07);
+backdrop-filter: blur(25px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 32px;
+}
+.container .section .div_9 .h1_18{
+    position: absolute;
+width: 216px;
+height: 31px;
+left: 53px;
+top: 212px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 128.2%;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.container .section .div_9 .b_7 {
+    position: absolute;
+width: 232px;
+height: 52px;
+left: 45px;
+top: 279px;
+
+border: none;
+
+background: #0BD7B8;
+box-shadow: 0px 20px 85px rgba(11, 215, 184, 0.2);
+border-radius: 61.059px;
+}
+.container .section .div_9 .b_3 .h1_19{
+    position: absolute;
+width: 107px;
+height: 23px;
+left: 63px;
+top: 15px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 128.2%;
+/* identical to box height, or 23px */
+
+text-align: center;
+
+color: #1A1F2C;
+}
+.container .section .div_10{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 363px;
+left: 345px;
+top: 2078px;
+
+background: rgba(255, 255, 255, 0.05);
+border: 1px solid rgba(255, 255, 255, 0.07);
+backdrop-filter: blur(25px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 32px;
+}
+.container .section .div_10 .h1_20{
+    position: absolute;
+width: 216px;
+height: 31px;
+left: 63px;
+top: 212px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 128.2%;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.container .section .div_10 .b_8 {
+    position: absolute;
+width: 232px;
+height: 52px;
+left: 45px;
+top: 279px;
+
+border: none;
+
+background: #0BD7B8;
+box-shadow: 0px 20px 85px rgba(11, 215, 184, 0.2);
+border-radius: 61.059px;
+}
+.container .section .div_10 .b_3 .h1_21{
+    position: absolute;
+width: 107px;
+height: 23px;
+left: 63px;
+top: 15px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 128.2%;
+/* identical to box height, or 23px */
+
+text-align: center;
+
+color: #1A1F2C;
+}
+.container .section .div_11{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 363px;
+left: 680px;
+top: 2078px;
+
+background: rgba(255, 255, 255, 0.05);
+border: 1px solid rgba(255, 255, 255, 0.07);
+backdrop-filter: blur(25px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 32px;
+}
+.container .section .div_11 .h1_22{
+    position: absolute;
+width: 216px;
+height: 31px;
+left: 53px;
+top: 212px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 128.2%;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.container .section .div_11 .b_9 {
+    position: absolute;
+width: 232px;
+height: 52px;
+left: 45px;
+top: 279px;
+
+border: none;
+
+background: #0BD7B8;
+box-shadow: 0px 20px 85px rgba(11, 215, 184, 0.2);
+border-radius: 61.059px;
+}
+.container .section .div_11 .b_9 .h1_23{
+    position: absolute;
+width: 107px;
+height: 23px;
+left: 63px;
+top: 15px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 128.2%;
+/* identical to box height, or 23px */
+
+text-align: center;
+
+color: #1A1F2C;
+}
+.container .section .div_12{
+    box-sizing: border-box;
+
+position: absolute;
+width: 322px;
+height: 363px;
+left: 1015px;
+top: 2078px;
+
+background: rgba(255, 255, 255, 0.05);
+border: 1px solid rgba(255, 255, 255, 0.07);
+backdrop-filter: blur(25px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 32px;
+}
+.container .section .div_12 .h1_17{
+    position: absolute;
+width: 216px;
+height: 31px;
+left: 53px;
+top: 212px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 128.2%;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.container .section .div_12 .b_10 {
+    position: absolute;
+width: 232px;
+height: 52px;
+left: 45px;
+top: 279px;
+
+border: none;
+
+background: #0BD7B8;
+box-shadow: 0px 20px 85px rgba(11, 215, 184, 0.2);
+border-radius: 61.059px;
+}
+.container .section .div_12 .b_10 .h1_24{
+    position: absolute;
+width: 107px;
+height: 23px;
+left: 63px;
+top: 15px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 128.2%;
+/* identical to box height, or 23px */
+
+text-align: center;
+
+color: #1A1F2C;
+}
+.container .footer{
+    position: absolute;
+width: 1375px;
+height: 772px;
+background-color: rgb(24, 29, 41);;
+}
+.container .footer .p_7{
+    position: absolute;
+width: 612px;
+height: 96px;
+left: 751px;
+top: 33px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 134.7%;
+/* or 48px */
+
+
+color: #FFFFFF;
+}
+.container .footer .p_7 .span_2{
+    color: #08D7B8;
+}
+.container .footer .inp_1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 280.87px;
+    height: 78.5px;
+    left: 751px;
+    top: 197px;
+    padding-left: 40.63px;
+    background: rgba(255, 255, 255, 0.02);
+    border: 0.84315px solid #A6A7A8;
+    box-shadow: 0px 43.0007px 96.9622px rgba(166, 167, 168, 0.06);
+    backdrop-filter: blur(10px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 47.2164px;
+}
+.container .footer .inp_2{
+    position: absolute;
+    width: 280.87px;
+    height: 78.5px;
+    left: 1064px;
+    top: 197px;
+    padding: 41;
+    background: rgba(255, 255, 255, 0.02);
+    border: 0.84315px solid #A6A7A8;
+    box-shadow: 0px 43.0007px 96.9622px rgba(166, 167, 168, 0.06);
+    backdrop-filter: blur(10px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 47.2164px;
+}
+.container .footer .inp_3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 594px;
+height: 273px;
+left: 751px;
+top: 387px;
+padding-left: 42px;
+padding-top: none;
+background: rgba(255, 255, 255, 0.02);
+border: 0.84315px solid #A6A7A8;
+box-shadow: 0px 43.0007px 96.9622px rgba(166, 167, 168, 0.06);
+backdrop-filter: blur(10px);
+
+
+border-radius: 24px;
+}
+.container .footer .p_8{
+    position: absolute;
+width: 314px;
+height: 69px;
+left: 764px;
+top: 691px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 128.2%;
+
+
+
+color: #FFFFFF;
+}
+.container .footer .b_11{
+    position: absolute;
+width: 237px;
+height: 79px;
+left: 1120px;
+top: 691px;
+background: #0BD7B8;
+box-shadow: 0px 55.6073px 125.389px rgba(11, 215, 184, 0.15);
+border-radius: 61.059px;
+border: none;
+}
+.container .footer .b_11 .h1_25{
+    position: absolute;
+width: 106px;
+height: 21px;
+left: 65px;
+top: 29px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 17.4454px;
+line-height: 128.2%;
+/* or 22px */
+
+
+color: rgba(26, 31, 44, 0.89);
+}
